@@ -1,2 +1,2 @@
 # exercicios-em-c-
-exercícios em c++
+Exercicios em C++ com printf e scanf, aplicando matematica basica. 
